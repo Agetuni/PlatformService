@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {}
+    "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {
+    "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\Projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\AlazarY\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\learn\\Microservices\\PlatformService\\obj\\",
+        "outputPath": "D:\\projects\\learn\\Microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,28 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "automapper.extensions.microsoft.dependencyinjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "microsoft.entityframeworkcore.inmemory": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.7, )"
             }
           },
           "imports": [
