@@ -23,7 +23,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+PrepDb.PrepPopulation(app);
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
