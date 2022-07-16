@@ -4,6 +4,7 @@ namespace platfromServices.Models
     {
         bool SaveChanges();
         IEnumerable<Platform> GetAll();
-        Platform GetById();
+        Platform GetById(int id);
+        void createPlatform(Platform platform);
     }
 }
