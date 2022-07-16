@@ -1,4 +1,6 @@
-namespace platfromServices.Models
+using platfromServices.Models;
+
+namespace platfromServices.Data
 {
     public interface IPlatformRepo
     {

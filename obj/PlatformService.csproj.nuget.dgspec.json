@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {}
+    "D:\\Projects\\Learn\\Microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj": {
+    "D:\\Projects\\Learn\\Microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\Projects\\Learn\\Microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\projects\\learn\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\Projects\\Learn\\Microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\AlazarY\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\learn\\Microservices\\PlatformService\\obj\\",
+        "outputPath": "D:\\Projects\\Learn\\Microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
